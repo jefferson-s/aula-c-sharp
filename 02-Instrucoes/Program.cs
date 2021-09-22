@@ -39,7 +39,7 @@ namespace Instrucoes
                     break;
                 case 1:
                     Console.WriteLine("Um argumento");
-                    break;
+                    break; 
                 default:
                     Console.WriteLine($"{numeroDeArgumentos} argumentos");
                     break;
